@@ -8,7 +8,7 @@
  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmeddsamy&label=Profile%20views&color=0e75b6&style=flat" alt="ahmeddsamy" /> </p><br/>
 
-- 🌱 I’m currently learning **Flutter | React Native**
+- 🌱 I’m currently learning **Java | Kotlin**
 
 - 💬 Ask me about **MEARN Stack**
 
