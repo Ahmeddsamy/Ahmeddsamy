@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **MEARN Stack**
 
-- 📫 How to reach me **engahmedeltonamly@gmail.com**
+- 📫 How to reach me **ahmedsamyy.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
