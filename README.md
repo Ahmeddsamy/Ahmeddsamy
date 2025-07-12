@@ -1,12 +1,3 @@
-<div align="center">
-  <a href="https://www.ahmedsamy.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.ahmedsamy.dev/assets/logo.svg" alt="Logo" width="70">
-  </a>
-  <a href="https://www.ahmedsamy.dev" target="_blank" rel="noopener noreferrer">
-    <h1>My Portfolio</h1>
-  </a>
-</div>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif" alt="MasterHead">
 </p>
@@ -14,12 +5,16 @@
 <h1 align="center">Hi 👋, I'm Ahmed Samy</h1>
 <h3 align="center">Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmeddsamy&label=Profile%20views&color=0e75b6&style=flat" alt="ahmeddsamy" /> </p><br/>
-
+ <a href="https://www.ahmedsamy.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.ahmedsamy.dev/assets/logo.svg" alt="Logo" width="70">
+  </a>
 - 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **MEARN Stack**
 
 - 📫 How to reach me **ahmedsamyy.dev@gmail.com**
+
+-  Portfolio: Please visit my portfolio at <a href="https://www.ahmedsamy.dev" target="_blank" rel="noopener noreferrer">https://www.ahmedsamy.dev</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
