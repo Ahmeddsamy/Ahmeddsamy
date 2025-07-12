@@ -1,3 +1,10 @@
+<a href="https://www.ahmedsamy.dev" target="_blank" rel="noopener noreferrer">
+<div align="center">
+    <img src="https://www.ahmedsamy.dev/assets/logo.svg" alt="Logo" width="70">
+    <h1>My Portfolio</h1>
+</div>
+</a>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif" alt="MasterHead">
 </p>
