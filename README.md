@@ -5,9 +5,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Samy</h1>
 <h3 align="center">Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmeddsamy&label=Profile%20views&color=0e75b6&style=flat" alt="ahmeddsamy" /> </p><br/>
- <a href="https://www.ahmedsamy.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.ahmedsamy.dev/assets/logo.svg" alt="Logo" width="70">
-  </a>
+
 - 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **MEARN Stack**
