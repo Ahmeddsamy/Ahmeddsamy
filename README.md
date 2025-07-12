@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ahmedsamyy.dev@gmail.com**
 
--  Portfolio: Please visit my portfolio at <a href="https://www.ahmedsamy.dev" target="_blank" rel="noopener noreferrer">https://www.ahmedsamy.dev</a>
+-  Please visit my portfolio at <a href="https://www.ahmedsamy.dev" target="_blank" rel="noopener noreferrer">https://www.ahmedsamy.dev</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
